@@ -1,4 +1,4 @@
-Default terminal is alacritty btw
+Default terminal is alacritty
 # basic-dwm
 Zero patch dwm with a custom status bar.
 # Dependencies
