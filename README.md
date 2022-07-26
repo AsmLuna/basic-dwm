@@ -7,3 +7,5 @@ Terminal: kitty
 exec dwm &
 bar
 ```
+# Screenshot
+![Alt text](image.png "screenshot")
